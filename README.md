@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Fix TypeError in check_cfg() (#9245)
